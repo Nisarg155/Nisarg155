@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [PHP project](https://github.com/Nisarg155/task-manager-project)
+- 🔭 I’m currently working on [JavaScript and C++]
 
 - 🌱 I’m currently learning **c++ , linux**
 
