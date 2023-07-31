@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [JavaScript and C++]
+- 🔭 I’m currently working on **JavaScript and C++ Project**
 
 - 🌱 I’m currently learning **c++ , linux**
 
