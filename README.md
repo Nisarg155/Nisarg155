@@ -3,7 +3,6 @@
 <img width="1000" height="500" src="https://github.com/Nisarg155/Nisarg155/blob/main/banner.png" alt="my banner">
 
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg155&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg155" /> </p>
 
 
