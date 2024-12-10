@@ -7,13 +7,6 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript , firebase**
-
-- 🌱 I’m currently learning **Java , python , Django**
-
-- 💬 Ask me about **c++ ,git and c, JS**
-
-- 📫 How to reach me **amlaninisarg15@gmail.com**
 
 
 
